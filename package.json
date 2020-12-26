@@ -1,0 +1,14 @@
+{
+	"name": "podania",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scirpts": {
+		"test": "echo \"Error: no test specified\"&& exit 1"
+	},
+	"author": "Azerux",
+	"license": "ISC",
+	"dependencies": {
+		"discord.js": "^12.5.1",
+		"fs": "0.0.1-security"
+	}
+}
